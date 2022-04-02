@@ -2,7 +2,7 @@
 
 I'm Niño Olegario, Student 👨🏻‍💻 from Philippines. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Niño+Olegario%C3%B1%2C+22+years+old;Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Niño+Olegario+22+years+old;Student;)](https://git.io/typing-svg)
 
 
 
